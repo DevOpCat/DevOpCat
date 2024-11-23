@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Max  
+**Senior Full Stack Developer | Professional Skeptic of Tech Hype**  
 
-<!--
-**DevOpCat/DevOpCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 About Me:  
+A developer weary of reinventing the wheel, addicted to coffee and absurd metaphors.  
+I specialize in turning impossible requirements into functional bugs.  
+If you’ve ever wondered what it’s like to live trapped between Aristotle, Schopenhauer, and an endless Jira board, I’m your answer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔨 Tech Stack:  
+- Writes code in anything that compiles (or doesn’t).  
+- Builder of solutions that work *despite* ridiculous dependencies.  
+- Debugging wizard for systems that should never have existed.  
+
+---
+
+## 📖 Manifesto:  
+Software development is like the art of alchemy: turning client dreams into something that (mostly) doesn’t explode.  
+Here you’ll find code, skepticism, and sarcastic comments embedded in commits.  
+
+---
+
+## 🦄 Hobbies:  
+- Talking to a stray cat that sneaks into my apartment (unofficial therapist).  
+- Collecting absurd PR reviews.  
+- Philosophizing about life while setting up environments that defy logic.  
+
+---
+
+## 🚀 Motto:  
+**"Code smarter, not harder… unless it’s due yesterday, in which case, just wing it."**
